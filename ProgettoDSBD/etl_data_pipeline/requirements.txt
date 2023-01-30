@@ -1,0 +1,11 @@
+flask
+kafka-python
+prometheus_api_client
+confluent_kafka
+prometheus_client
+statsmodels
+datetime
+pandas
+xlsxwriter
+openpyxl
+

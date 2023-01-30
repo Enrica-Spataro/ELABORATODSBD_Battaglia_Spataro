@@ -1,0 +1,1 @@
+{"ceph_bluestore_read_lat_sum": {"min": false, "max": false}, "available": {"min": false, "max": false}, "ceph_bluefs_bytes_written_wal": {"min": false, "max": false}, "ceph_bluefs_db_used_bytes": {"min": false, "max": false}, "ceph_cluster_total_used_bytes": {"min": false, "max": false}}

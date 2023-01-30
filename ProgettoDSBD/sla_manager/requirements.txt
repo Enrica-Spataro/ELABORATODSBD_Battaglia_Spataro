@@ -1,0 +1,9 @@
+flask
+kafka-python
+prometheus_api_client
+confluent_kafka
+prometheus_client
+mysql.connector
+datetime
+statsmodels
+

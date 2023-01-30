@@ -1,0 +1,1 @@
+["ceph_bluestore_read_lat_sum", "available", "ceph_bluefs_bytes_written_wal", "ceph_bluefs_db_used_bytes", "ceph_cluster_total_used_bytes"]
